@@ -1,2 +1,2 @@
-# yorgurt.github.io
+# Yorgurt.github.io
 website

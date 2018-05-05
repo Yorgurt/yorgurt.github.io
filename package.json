@@ -1,0 +1,25 @@
+{
+  "name": "yorgurt.github.io",
+  "version": "1.0.0",
+  "description": "website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yorgurt/yorgurt.github.io.git"
+  },
+  "author": "Andreas Tsatsanis / Yorgos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yorgurt/yorgurt.github.io/issues"
+  },
+  "homepage": "https://yorgurt.github.io",
+  "dependencies": {
+    "@material/card": "^0.35.0",
+    "@material/drawer": "^0.35.0",
+    "@material/grid-list": "^0.35.0",
+    "material-components-web": "^0.35.1"
+  }
+}

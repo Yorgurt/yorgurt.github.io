@@ -1,0 +1,11 @@
+@import "@material/top-app-bar/mdc-top-app-bar";
+
+.mdc-card__media {
+    background-image: url('https://cdn.discordapp.com/attachments/398375267422175244/441525917349707788/image.jpg');
+    max-width: 500px;
+}
+
+.mdc-card {
+    max-width: 500px;
+    margin-top: 24px;
+}
